@@ -5,6 +5,7 @@
 - 📫 How to reach me on LinkedIn
 - 😄 Pronouns: He
 - ⚡ Fun fact: hei
+- I forgot to add contact This is coming now. Hurray in my branch
 
 <!---
 EngrDrChris/EngrDrChris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
